@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!👋 I'm Ignacio. </h1>
+<h1 align="center">Hej hej!👋 I'm Ignacio. </h1>
 
 - 👋 I'm an MSc student in Computer Science and a Student Worker in Vestas. I live, study, work, take D vitamin pills and have fun in Aarhus, Denmark.
 - 🧑🏼‍💻 I believe that we, the CS folks, should work towards enhancing human life. That's why I mainly focus on AI & Data Science, especially Deep Learning and Natural Language Processing.
