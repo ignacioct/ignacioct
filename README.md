@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!👋 I'm Ignacio. </h1>
 
-- 👋 I'm an MSc student in Language Analysis and Processing at Euskal Herriko Unibertsitatea/Universidad del País Vasco. I live, study, work, enjoy the beach and have fun in Donostia-San Sebastián, in the Basque Country.
+- 👋 I'm an NLP Engineer and Computer Science working at EY. I live, study, work, suffer the scorching summers and have fun in Madrid, Spain.
 - 🧑🏼‍💻 I believe that we, the CS folks, should work towards enhancing human life. That's why I mainly focus on AI & Data Science, especially Deep Learning and Natural Language Processing.
 - 🌱 And, outside of my computer, I love Liberal Arts and Humanities. I almost studied something along that line as my BSc! I have been lucky enough to be able to also educate myself in topics like Languages, Mythology, Anthropology, History and European Culture. That's why NLP was love at first sight.
 - ✊🏽 Deep Learning and NLP are amazing tools to fight for social causes. During my BSc and my internship in Recognai, I worked on Misogyny Detection using Transformers. Thanks to a lot of amazing people, I made two theses on the topic, and I'm quite proud of them. You can check it out [here](https://github.com/ignacioct/Temis/blob/main/thesis.pdf) and [here](https://github.com/ignacioct/MedicalInformationExtractionUsingNLP/blob/main/Thesis%20Ignacio.pdf).
